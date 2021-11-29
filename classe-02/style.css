@@ -1,0 +1,52 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.descricao {
+    margin: auto;
+    margin-bottom: 50px;
+    color: #101439;
+    background-color: #FFFFFF;
+    padding: 60px 85px;
+    max-width: 323px;
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
+    border-radius: 10px;
+    line-height: 36px;
+    text-align: left;
+}
+
+.descricao p {
+    margin: none;
+}
+/*.nome {
+    color: #101439;
+    font-family: 'Open Sans', serif;
+    font-size: 14px;
+    line-height: 28px;
+}*/
+
+.nome {
+    height: 28px;
+    left: 632px;
+    top: 540px;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.newsletter {
+    margin: auto;
+    color:#FFFFFF;
+    background-color: #101439;
+    max-width: 306px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.newsletter button {
+    text-decoration: none;
+}

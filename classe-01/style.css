@@ -1,0 +1,44 @@
+body {
+    background-color: #E5E5E5;
+    padding: 100px;
+}
+
+.btn-fechar {
+    width: 30px;
+    margin-left: auto;
+}
+
+.card {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    text-align: center;
+    padding: 35px 52px 70px 52px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    max-width: 432px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 14px 62px;
+    border-radius: 5px;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
+.btn-laranja {
+    background-color: #ED6755;
+    color:#FFFFFF;
+}
+
+.btn-azul {
+    background-color: #1C1B5E;
+    color:#FFFFFF;
+}
